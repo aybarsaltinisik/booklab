@@ -1,1 +1,2 @@
-# CS353-Project
+# BookLab
+A web-based social platform for book lovers.
